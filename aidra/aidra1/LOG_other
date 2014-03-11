@@ -2,14 +2,14 @@
 arm: ELF 32-bit LSB executable, ARM, version 1, statically linked, stripped
 
 # md5sum
-18adfd04506fcbf91112be7041d7b359  arm
+18adfd04506fcbf91112be7041d7b359  downloaded/binaries/arm
 687b5958485ce6c99517533a2fba7e4f  getbinaries.sh
 46e7c1eb4241ffcc085fc2dccf020902  downloaded/agent.php
 7430c37dd9011a065ff0b98e5d7b1ea3  downloaded/cl
 69d2629a21f56247eebeb85c311088a1  downloaded/emme
 
 # size
-81836                             arm
+81836                             downloaded/binaries/arm
 4556                              getbinaries.sh
 72                                downloaded/agent.php
 311                               downloaded/cl
